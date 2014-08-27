@@ -1,5 +1,6 @@
 -- Script gerado em MySQL Work bench5.2.38
 /*
+Trabalho Final de banco de Dados I, tabelas de gerenciamento de uma locadora de filmes online
 Carlos Alberto, Luciano D'Alessandre, Matheus Lopes, Pedro Augusto Duarte - 10A
 */
 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
